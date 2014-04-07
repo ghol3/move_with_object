@@ -1,0 +1,9 @@
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\bin\Debug\PgrNejakaVec.exe.config
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\bin\Debug\PgrNejakaVec.exe
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\bin\Debug\PgrNejakaVec.pdb
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\obj\Debug\PgrNejakaVec.csprojResolveAssemblyReference.cache
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\obj\Debug\PgrNejakaVec.Form1.resources
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\obj\Debug\PgrNejakaVec.Properties.Resources.resources
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\obj\Debug\PgrNejakaVec.csproj.GenerateResource.Cache
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\obj\Debug\PgrNejakaVec.exe
+C:\Users\ghol3\Documents\Visual Studio 2012\Projects\PgrNejakaVec\PgrNejakaVec\obj\Debug\PgrNejakaVec.pdb
